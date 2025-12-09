@@ -4,4 +4,5 @@ Building a modern data warehouse with SQL Server , including ETL processes, data
 
 
 
-![Data Architecture](docs/data architecture1.draw.io.png)
+
+![Uploading data architecture1.drawio.png…]()
