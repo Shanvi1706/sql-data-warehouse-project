@@ -49,8 +49,9 @@ CRM Data (Customer, Product, Sales)
 ERP Data (Location, Category, Customer mapping)
 
 ---
-📁 Project Structure
+## 📁 Project Structure
 
+```
 sql-data-warehouse-project/
 │
 ├── datasets/               # Raw source data
@@ -65,7 +66,7 @@ sql-data-warehouse-project/
 ├── app/                    # Dashboard application
 ├── README.md
 └── .gitignore
-
+```
 ---
 ⚙️ Tech Stack
 
