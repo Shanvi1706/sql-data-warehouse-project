@@ -13,18 +13,21 @@ The final processed data is visualized through an interactive dashboard for deci
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver** and **Gold** layers:
 <img width="1080" height="571" alt="data architecture1 drawio" src="https://github.com/user-attachments/assets/9ddcacae-1687-4e81-a3ec-9398f024db72" />
 
-🔹 Bronze Layer
-Raw data ingestion from multiple sources (CRM & ERP datasets)
-Data stored in its original format
-Minimal transformation
-🔹 Silver Layer
-Data cleaning and standardization
-Handling missing values and inconsistencies
-Applying business rules
-🔹 Gold Layer
-Aggregated and business-ready data
-Optimized for analytics and reporting
-Used directly for dashboard visualization
+##🔹 Bronze Layer
+
+- Raw data ingestion from multiple sources (CRM & ERP datasets)
+- Data stored in its original format
+- Minimal transformation
+##🔹 Silver Layer
+
+- Data cleaning and standardization
+- Handling missing values and inconsistencies
+- Applying business rules
+##🔹 Gold Layer
+
+- Aggregated and business-ready data
+- Optimized for analytics and reporting
+- Used directly for dashboard visualization
 
 ---
 ## 🔄 ETL Pipeline
