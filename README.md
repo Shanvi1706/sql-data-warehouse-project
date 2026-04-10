@@ -44,11 +44,13 @@ etl.py (pipeline orchestrator)
 
 ---
 📊 Data Sources
+
 CRM Data (Customer, Product, Sales)
 ERP Data (Location, Category, Customer mapping)
 
 ---
 📁 Project Structure
+
 sql-data-warehouse-project/
 │
 ├── datasets/               # Raw source data
@@ -66,6 +68,7 @@ sql-data-warehouse-project/
 
 ---
 ⚙️ Tech Stack
+
 Python (ETL Pipeline)
 SQL (Data Warehouse Design)
 Power BI / Dashboard Tool
@@ -85,10 +88,13 @@ Product performance metrics
 ▶️ How to Run the Project
 Clone the repository:
 git clone https://github.com/Shanvi1706/sql-data-warehouse-project
+
 Navigate to project folder:
 cd sql-data-warehouse-project
+
 Run ETL pipeline:
 python pipeline/etl.py
+
 Execute SQL scripts to create warehouse tables
 Connect dashboard to the database
 
