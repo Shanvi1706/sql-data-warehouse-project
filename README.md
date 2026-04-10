@@ -27,26 +27,26 @@ Optimized for analytics and reporting
 Used directly for dashboard visualization
 
 ---
-🔄 ETL Pipeline
+## 🔄 ETL Pipeline
 
 The pipeline is implemented using Python and SQL:
 
-Extract: Load raw CSV data from source systems
-Transform: Clean, validate, and structure data
-Load: Store processed data into warehouse tables
+- Extract: Load raw CSV data from source systems
+- Transform: Clean, validate, and structure data
+- Load: Store processed data into warehouse tables
 
 Modules:
 
-extract.py
-transform.py
-load.py
-etl.py (pipeline orchestrator)
+- extract.py
+- transform.py
+- load.py
+- etl.py (pipeline orchestrator)
 
 ---
 📊 Data Sources
 
-CRM Data (Customer, Product, Sales)
-ERP Data (Location, Category, Customer mapping)
+- CRM Data (Customer, Product, Sales)
+- ERP Data (Location, Category, Customer mapping)
 
 ---
 ## 📁 Project Structure
@@ -68,45 +68,45 @@ sql-data-warehouse-project/
 └── .gitignore
 ```
 ---
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-Python (ETL Pipeline)
-SQL (Data Warehouse Design)
-Power BI / Dashboard Tool
-CSV Datasets
-Git & GitHub
+- Python (ETL Pipeline)
+- SQL (Data Warehouse Design)
+- Power BI / Dashboard Tool
+- CSV Datasets
+- Git & GitHub
 
 ---
-📈 Dashboard
+## 📈 Dashboard
 
 The final data is visualized using an interactive dashboard to provide:
 
-Sales insights
-Customer analysis
-Product performance metrics
+- Sales insights
+- Customer analysis
+- Product performance metrics
 
 ---
-▶️ How to Run the Project
-Clone the repository:
+## ▶️ How to Run the Project
+1. Clone the repository:
 git clone https://github.com/Shanvi1706/sql-data-warehouse-project
 
-Navigate to project folder:
+2. Navigate to project folder:
 cd sql-data-warehouse-project
 
-Run ETL pipeline:
+3. Run ETL pipeline:
 python pipeline/etl.py
 
-Execute SQL scripts to create warehouse tables
-Connect dashboard to the database
+4.Execute SQL scripts to create warehouse tables
+5.Connect dashboard to the database
 
 ---
-✅ Key Features
-End-to-end ETL pipeline implementation
-Multi-layered data architecture
-Data cleaning and transformation
-Data quality checks
-Scalable warehouse design
-Dashboard visualization
+## ✅ Key Features
+- End-to-end ETL pipeline implementation
+- Multi-layered data architecture
+- Data cleaning and transformation
+- Data quality checks
+- Scalable warehouse design
+- Dashboard visualization
 
 ---
 🎯 Conclusion
