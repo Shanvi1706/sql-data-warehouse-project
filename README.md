@@ -1,5 +1,5 @@
-📊 End-to-End Data Warehouse & ETL Pipeline Project
-📌 Overview
+## 📊 End-to-End Data Warehouse & ETL Pipeline Project
+## 📌 Overview
 
 This project demonstrates the design and implementation of an end-to-end data warehouse pipeline for transforming raw data into meaningful business insights.
 
