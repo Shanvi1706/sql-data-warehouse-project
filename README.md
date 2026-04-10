@@ -92,18 +92,18 @@ The final data is visualized using an interactive dashboard to provide:
 
 ---
 ## ▶️ How to Run the Project
-1. Clone the repository:
+1.Clone the repository:
 git clone https://github.com/Shanvi1706/sql-data-warehouse-project
 
-2. **Navigate to project folder**:
+2.**Navigate to project folder:**
 cd sql-data-warehouse-project
 
-3.**Run ETL pipeline**:
+3.**Run ETL pipeline:**
 python pipeline/etl.py
 
-4. Execute SQL scripts to create warehouse tables
+4.Execute SQL scripts to create warehouse tables
 
-5. Connect dashboard to the database
+5.Connect dashboard to the database
 
 ---
 ## ✅ Key Features
