@@ -95,10 +95,10 @@ The final data is visualized using an interactive dashboard to provide:
 1. Clone the repository:
 git clone https://github.com/Shanvi1706/sql-data-warehouse-project
 
-2. </u>Navigate to project folder</u>:
+2. **Navigate to project folder**:
 cd sql-data-warehouse-project
 
-3.</u>Run ETL pipeline</u>:
+3.**Run ETL pipeline**:
 python pipeline/etl.py
 
 4. Execute SQL scripts to create warehouse tables
