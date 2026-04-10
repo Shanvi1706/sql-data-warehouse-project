@@ -18,11 +18,13 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 - Raw data ingestion from multiple sources (CRM & ERP datasets)
 - Data stored in its original format
 - Minimal transformation
+  
 ##🔹 Silver Layer
 
 - Data cleaning and standardization
 - Handling missing values and inconsistencies
 - Applying business rules
+  
 ##🔹 Gold Layer
 
 - Aggregated and business-ready data
