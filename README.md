@@ -96,8 +96,9 @@ cd sql-data-warehouse-project
 3. Run ETL pipeline:
 python pipeline/etl.py
 
-4.Execute SQL scripts to create warehouse tables
-5.Connect dashboard to the database
+4. Execute SQL scripts to create warehouse tables
+
+5. Connect dashboard to the database
 
 ---
 ## ✅ Key Features
